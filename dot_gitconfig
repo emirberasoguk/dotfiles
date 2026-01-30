@@ -1,0 +1,7 @@
+[user]
+	name = Emir Bera Soğuk
+	email = emirberasoguk@proton.me
+[core]
+	editor = vim --nofork
+[init]
+	defaultBranch = main
